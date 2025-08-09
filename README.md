@@ -2,7 +2,7 @@
 
 ## 全新打造的现代化编程语言 A brand-new programming language.
 
-[![GitHub Stars](https://img.shields.io/github/stars/HTML0727/blau-core?style=social)](https://github.com/HTML0727/blau-core)
+[![GitHub Stars](https://img.shields.io/github/stars/HTML0727/blau-core?style=social)](https://github.com/blaulang/blau-core)
 [![Follow on X](https://img.shields.io/twitter/follow/Makki_Yaku947?style=social)](https://x.com/Makki_Yaku947)
 
 ### 👩💻 关于开发者 | About Developer
@@ -56,7 +56,7 @@ echo 'print("Hello, BlauLang!")' > hello.bl
 ---
 
 ## 🤝 贡献指南
-欢迎任何形式的贡献！无论是代码改进、文档完善还是bug报告，都能帮助BlauLang变得更好。请访问我们的[GitHub仓库](https://github.com/HTML0727/blau-core)了解更多信息。
+欢迎任何形式的贡献！无论是代码改进、文档完善还是bug报告，都能帮助BlauLang变得更好。请访问我们的[GitHub仓库](https://github.com/blaulang/blau-core)了解更多信息。
 
 ---
 
